@@ -4,7 +4,7 @@
 
 <br>
 <br>
-👨‍💻 I am a Semi_Senior at Faculty of Computers & Informatics at Suez Canal University.
+👨‍💻 I am a Junior at Faculty of Computers & Informatics at Suez Canal University.
 <br>
 <br>
 📝 I am a competitive programmer at Codeforces, Leetcode</h3>
