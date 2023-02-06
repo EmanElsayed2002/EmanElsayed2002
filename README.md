@@ -1,11 +1,17 @@
-<h1 align="center">Hi , I'm Eman Elsayed <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Competitive+Programmer;DS%20|%20Algorithms%20|%20OOP%20;&center=true&width=500&height=50"></a>
-
-</p>
-
-
+<div>
+    <div align=center>
+        <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.png" alt="GitHub Octocat Drinking a Cup of Coffee" height="200">
+    </div>
+    <div align=center>
+        <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Eman+Elsayed+%F0%9F%91%8B;Computer+Science+Student;Worked+on+Flutter+Projects;Problem+Solver;Competitive+Programmer;Ds+|+Algorithms+|+OOP" alt="Headline" />
+    </div>
 <br>
+
+<div align=center>
+       <a href="mailto:emy2192002@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
+	<a href="https://github.com/EmanElsayed2002"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
+	<a href="https://www.linkedin.com/in/eman-elsayed-a67318218/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+    </div>
 
 <p align="center"> 
 	<img src="https://komarev.com/ghpvc/?username=EmanElsayed2002&label=Profile%20views&color=0e75b6&style=plastic" alt="EmanElsayed" /> 
@@ -13,11 +19,12 @@
 
 
 ## 💁‍♀️ About me
-- :school: I am a `Junior` at Faculty of Computers & Informatics at Suez Canal University.
-- :student: I’m currently learning: `Computer Science` and `Software Engineering`.
-- :computer: I am a competitive programmer mainly at `Codeforces` and `leetcode`
-- 📝 enjoy learning new things about software development this is my <a href = "https://drive.google.com/file/d/1PHSqBAEyauGdFiQ-256JKNgH52JgDs19/view?usp=sharing">resume
-
+  
+ - :student: I’m currently learning: `Computer Science` and `Software Engineering`.
+ - 🎯 <b>I’m currently focusing on <a href="https://github.com/EmanElsayed2002/MustafaSaad_SheetChallenge"></b>Problem-Solving</a></li>
+ - :school: I am a `Junior` at Faculty of Computers & Informatics at Suez Canal University.
+ - :computer: I am a competitive programmer mainly at `Codeforces` and `leetcode`
+ - 📝 enjoy learning new things about software development this is my <a href = "https://drive.google.com/file/d/1PHSqBAEyauGdFiQ-256JKNgH52JgDs19/view?usp=sharing">resume
 
 <br>
 <br>
@@ -27,18 +34,10 @@
 
 <p align="center">
   <a href="https://codeforces.com/profile/Eman_Elsayed"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-shadow-tal-revivo.png" alt="Code Forces"/></a>
-	<a href="https://leetcode.com/emanelsayed21/"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="LeetCode"/></a>
- <a href="https://www.codechef.com/users/EmanElsayed21"><img src="https://img.icons8.com/color/50/000000/codechef.png" alt="Code Chef"/></a>
+	<a href="https://leetcode.com/EmanElsayed21/"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="LeetCode"/></a>
+	<a href="https://atcoder.jp/users/EmanElsayed21"><img src="https://i.ibb.co/Q9WSjDB/logo.png" alt="AtCoder" width = 60px/></a>
+	<a href="https://www.codechef.com/users/EmanElsayed21"><img src="https://img.icons8.com/color/50/000000/codechef.png" alt="Code Chef"/></a>
 </p>
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> 
- Connect with me
-<p align="center">
-	<a href="mailto:emy2192002@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
-	<a href="https://github.com/EmanElsayed2002"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
-	<a href="https://www.linkedin.com/in/eman-elsayed-a67318218/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-</p>
-
 
 ## 🛠️ My Skills
 
@@ -102,7 +101,6 @@
 
  
 </p>
-
 
 
 </p>
