@@ -7,7 +7,6 @@
   <img src="https://readme-typing-svg.demolab.com/?font=Architects+Daughter&color=7AF79A&lines=Hi+I'm+Eman+Elsayed;I'm+Computer+Science+Student+;I'm+Flutter+Developer...;I'm+also+Competitive+Programmer;&center=true&width=380&height=50&duration=4000&pause=1000">
 </p>  
 
-<br>
 
 <div align=center>
        <a href="mailto:emy2192002@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
