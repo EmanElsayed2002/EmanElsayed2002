@@ -3,10 +3,10 @@
     <div align="center">
         <img src="https://octodex.github.com/images/mona-the-rivetertocat.png" alt="GitHub Octocat Drinking a Cup of Coffee" height="200">
     </div>
-    <div align="center">
-       
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=26&lines=Hi+I'm+Eman+Elsayed+....;I'm+Computer+Science+Student;I'm+a+Flutter+Developer...;I'm+also+Competitive+Programmer;)](https://git.io/typing-svg)
-    </div>
+	 <p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Architects+Daughter&color=7AF79A&lines=Hi+I'm+Eman+Elsayed;I'm+Computer+Science+Student+;I'm+Flutter+Developer...;I'm+also+Competitive+Programmer;&center=true&width=380&height=50&duration=4000&pause=1000">
+</p>  
+
 <br>
 
 <div align=center>
