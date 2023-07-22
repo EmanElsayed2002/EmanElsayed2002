@@ -22,7 +22,6 @@
 ## 💁‍♀️ About me
   
  - :student: I’m currently learning: `Computer Science` and `Software Engineering`.
- - 🎯 <b>I’m currently focusing on <a href="https://github.com/EmanElsayed2002/MustafaSaad_SheetChallenge"></b>Problem-Solving</a></li>
  - :school: I am a `Junior` at Faculty of Computers & Informatics at Suez Canal University.
  - :computer: I am a competitive programmer mainly at `Codeforces` and `leetcode`
  - :computer: I am currently Working on Whatapp Clone `flutter`
