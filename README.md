@@ -25,7 +25,7 @@
  - :school: I am a `Junior` at Faculty of Computers & Informatics at Suez Canal University.
  - :computer: I am a competitive programmer mainly at `Codeforces` and `leetcode`
  - :computer: I am currently Working on Whatapp Clone `flutter`
- - 📝 enjoy learning new things about software development this is my <a href = "[https://drive.google.com/file/d/16A7gnFiWuRWCD955tWxyK5gAGnq2blHV/view?usp=drive_link](https://drive.google.com/file/d/16A7gnFiWuRWCD955tWxyK5gAGnq2blHV/view?usp=drive_link)">resume
+ - 📝 enjoy learning new things about software development this is my <a href = "https://drive.google.com/file/d/16A7gnFiWuRWCD955tWxyK5gAGnq2blHV/view?usp=drive_link](https://drive.google.com/file/d/16A7gnFiWuRWCD955tWxyK5gAGnq2blHV/view?usp=drive_link)">resume
 
 <br>
 <br>
