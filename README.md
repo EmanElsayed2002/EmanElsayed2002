@@ -22,9 +22,8 @@
 ## 💁‍♀️ About me
   
  - :student: I’m currently learning: `Computer Science` and `Software Engineering`.
- - :school: I am a `Senior` at Faculty of Computers & Informatics at Suez Canal University.
- - :computer: I am a competitive programmer mainly at `Codeforces` and `leetcode`
- - 📝 enjoy learning new things about software development this is my <a href = "https://drive.google.com/file/d/1GYOUO4_b5eCVUt9-HwiP5I_o0F5-FYD3/view?usp=drive_link">resume
+ - :school: I am a `Senior` at Faculty of Computers & Informatics at Suez Canal University
+ - 📝 enjoy learning new things about software development this is my <a href = "[https://drive.google.com/file/d/1GYOUO4_b5eCVUt9-HwiP5I_o0F5-FYD3/view?usp=drive_link](https://drive.google.com/file/d/1vCpTunbFubx2-GtZRzvrG3xRyfn_hRfR/view?usp=sharing)">resume
 
 <br>
 <br>
