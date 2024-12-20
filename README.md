@@ -22,7 +22,9 @@
 <br>
 
 ## 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=EmanElsayed2002&theme=algolia" alt="EmanElsayed" /></p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EmanElsayed2002&theme=algolia" alt="EmanElsayed" />
+</p>
 
 <br>
 <br>
