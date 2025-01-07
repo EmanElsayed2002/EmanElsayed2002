@@ -9,7 +9,7 @@
 <br>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=EmanElsayed2002&label=Profile%20views&color=0e75b6&style=plastic" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=EmanElsayed2002&color=ff69b4&style=plastic" alt="Profile Views" />
 </p>
 
 ## 👨‍💻 About Me
@@ -20,14 +20,6 @@
 - 🔍 I’m currently open for: `An Internship` or a new `Job Opportunity`. Here’s [MY RESUME](https://drive.google.com/file/d/1YmrI72Eyhv-qxlAmd_HRCp7WVBjjfEDl/view?usp=sharing).
 - 📚 Always `Learning New Things`.
 
----
-
-## 🔥 GitHub Streak Stats
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EmanElsayed2002&theme=algolia" alt="EmanElsayed Streak Stats" />
-</p>
-
----
 
 ## 👀 My Competitive Programming Profiles
 
