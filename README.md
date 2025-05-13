@@ -17,7 +17,7 @@
 - 🖥️ Trainee at ITI - Full-Stack Web Development Program (using .NET).
 - 🚀 I love using software as a solution to every `Problem`.
 - 💻 I am a Problem Solver mainly at `LeetCode`.
-- 🔍 I’m currently open for: `An Internship` or a new `Job Opportunity`. Here’s [MY RESUME](https://drive.google.com/file/d/1YmrI72Eyhv-qxlAmd_HRCp7WVBjjfEDl/view?usp=sharing).
+- 🔍 I’m currently open for: `An Internship` or a new `Job Opportunity`. Here’s [MY RESUME](https://drive.google.com/file/d/172L7syvjXgcCdqY7ivrLCnZP39WRJnXI/view?usp=sharing) and This is [My Portfolio](https://eman-portfolio-git-main-emanelsayed2002s-projects.vercel.app/).
 - 📚 Always `Learning New Things`.
 
 
